@@ -14,7 +14,7 @@ setup(
     },
     author='Your Name',
     author_email='ganjbakhsh.ali@gmail.com',
-    description='A package to fetch and save Google Scholar papers for a given researcher',
+    description='A package to fetch and save Google Scholar papers for a given researcher name',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/ganjbakhshali/scholar_author_scraper',
