@@ -12,7 +12,7 @@ setup(
             'researcher-papers=researcher_papers.main:main',
         ],
     },
-    author='Your Name',
+    author='Ali Ganj Bakhsh',
     author_email='ganjbakhsh.ali@gmail.com',
     description='A package to fetch and save Google Scholar papers for a given researcher name',
     long_description=open('README.md').read(),
